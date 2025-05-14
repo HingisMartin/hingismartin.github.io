@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-> "Explore.<span style="font-style: normal">🏔</span> Dream.<span style="font-style: normal">💭</span> Discover.<span style="font-style: normal">💡</span>" ― Mark Twain
+> "Explore.<span style="font-style: normal">to thine own self be true </span>" ― William Shakespeare!
 
-I recently graduated with a Master's degree and I'm looking for opportunities to work as Software developer. Prior to that, I worked as a system Engineer at Tata consultancy service. I graduated from the Mumbai university,  majoring in Computer Engineering in 2019. Before joining a full-time, I worked as a web developer from 2018-2019, where I worked with CakePHP framework,focused mainly on creating dynamic website aligning to AICTE standards. Also researched on various HMI techniques and assisted document understanding and mentoring juniors. Later in my undergraduate thesis, I, along with my team, innovated a ECG compact model which provided real time alerts on the user's heart condition. We incorporated deep learning and autoencoders to get accurate prediction on the heart's condition.
+I recently graduated with a Master's degree in computer science and I'm looking for opportunities to work as Software developer. Prior to that, I worked as a system Engineer at Tata consultancy service. I graduated from the Mumbai university,  majoring in Computer Engineering in 2019. Before joining a full-time, I worked as a web developer from 2018-2019, where I worked with CakePHP framework,focused mainly on creating dynamic website aligning to AICTE standards. Also researched on various HMI techniques and assisted document understanding and mentoring juniors. Later in my undergraduate thesis, I, along with my team, innovated a ECG compact model which provided real time alerts on the user's heart condition. We incorporated deep learning and autoencoders to get accurate prediction on the heart's condition.
 
 My research interest aligns with Machine learning and application of robotics in agriculture based appliance. 
 
