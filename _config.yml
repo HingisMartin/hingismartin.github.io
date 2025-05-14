@@ -22,9 +22,9 @@ repository               : "hmnadar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Hingis Martin Nadar"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "MS CS at Purdue University, Ex System Engineer at TCS"
   location         : 
   employer         : 
