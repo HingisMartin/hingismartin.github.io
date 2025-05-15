@@ -8,14 +8,14 @@ date : 12-12-2023
 location: "West Lafayette, Indiana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+True success is when knowledge is free
 
-USB tutor for UG
-================
-[ Purdue CS 159 ] Programming Applications For Engineers 
-[ Purdue CS 189 ] C++ Programming 
-[ Purdue CS 250 ] Computer Architecture 
-[ Purdue CS 251 ] Data Structures 
-[ Purdue CS 252 ] Systems Programming 
-[ Purdue CS 381 ] Introduction to the Analysis of Algorithms 
-[ Purdue MA 261 ] Multivariate Calculus
+Courses I tutored in USB :
+=========================
+- [Purdue CS 159] Programming Applications For Engineers  
+- [Purdue CS 189] C++ Programming  
+- [Purdue CS 250] Computer Architecture  
+- [Purdue CS 251] Data Structures  
+- [Purdue CS 252] Systems Programming  
+- [Purdue CS 381] Introduction to the Analysis of Algorithms  
+- [Purdue MA 261] Multivariate Calculus
