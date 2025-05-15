@@ -2,19 +2,19 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Purdue University, Computer Science Department"
+date: 2023-2024 
+location: "West Lafayette, Indiana"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+USB tutor for UG
+================
+[ Purdue CS 159 ] Programming Applications For Engineers 
+[ Purdue CS 189 ] C++ Programming 
+[ Purdue CS 250 ] Computer Architecture 
+[ Purdue CS 251 ] Data Structures 
+[ Purdue CS 252 ] Systems Programming 
+[ Purdue CS 381 ] Introduction to the Analysis of Algorithms 
+[ Purdue MA 261 ] Multivariate Calculus
