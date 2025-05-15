@@ -3,7 +3,8 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 venue: "Purdue University, Computer Science Department"
-date: 2023-2024 
+semester: 2023-2024 
+date : 12-12-2023
 location: "West Lafayette, Indiana"
 ---
 
